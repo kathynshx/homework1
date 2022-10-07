@@ -1,0 +1,15 @@
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/bin/Debug/net6.0/exercice_numberone
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/bin/Debug/net6.0/exercice_numberone.deps.json
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/bin/Debug/net6.0/exercice_numberone.runtimeconfig.json
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/bin/Debug/net6.0/exercice_numberone.dll
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/bin/Debug/net6.0/exercice_numberone.pdb
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/obj/Debug/net6.0/exercice_numberone.csproj.AssemblyReference.cache
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/obj/Debug/net6.0/exercice_numberone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/obj/Debug/net6.0/exercice_numberone.AssemblyInfoInputs.cache
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/obj/Debug/net6.0/exercice_numberone.AssemblyInfo.cs
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/obj/Debug/net6.0/exercice_numberone.csproj.CoreCompileInputs.cache
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/obj/Debug/net6.0/exercice_numberone.dll
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/obj/Debug/net6.0/refint/exercice_numberone.dll
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/obj/Debug/net6.0/exercice_numberone.pdb
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/obj/Debug/net6.0/exercice_numberone.genruntimeconfig.cache
+/Users/ekaterinashvalyuk/Desktop/homework1/exercice_numberone/obj/Debug/net6.0/ref/exercice_numberone.dll
